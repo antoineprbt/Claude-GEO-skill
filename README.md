@@ -20,9 +20,10 @@
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-geo.git
-cp -r claude-geo/geo ~/.claude/skills/geo
-cp claude-geo/scripts/parse_geo.py ~/.claude/scripts/parse_geo.py
+git clone https://github.com/antoineprbt/Claude-GEO-skill.git
+cp -r Claude-GEO-skill ~/.claude/skills/geo
+cp Claude-GEO-skill/scripts/parse_geo.py ~/.claude/scripts/parse_geo.py
+
 ```
 
 Restart Claude Code after installation.
